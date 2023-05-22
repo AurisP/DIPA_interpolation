@@ -158,7 +158,7 @@ def bicubic_solve(coeffs):
 
 # Load the image
 # img = cv2.imread('medalja_dubrovnik.png')
-img = cv2.imread('uzorak.tif')
+img = cv2.imread('assets/klis1.jpg')
 # Define the scaling factor
 scale_percent = 200  # increase the size by 200%
 
